@@ -1,6 +1,3 @@
-from os import listxattr
-
-
 lista = [1,3,5]
 
 def todos_imparesQ(lista):
