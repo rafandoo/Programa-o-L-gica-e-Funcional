@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cuAbaAmVPqy/Aq7z3pM0S4zlFDiyglnvTwEr+yrL2PKE1ODP3sNc/d6G9xRMhn4dyOhbyQe2fM00Cc4YYLjQaA==",
+  "success": true,
+  "projectFilePath": "F:\\Rafael Arquivos\\Google Drive\\Programação\\IFC - BCC\\Programação Lógica e Funcional\\F#\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafin\\.nuget\\packages\\fsharp.core\\6.0.4\\fsharp.core.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
