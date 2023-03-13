@@ -1,9 +1,9 @@
-def media(n1, n2):
-    med = (n1 + n2) / 2
-    if med >= 7:
-        return "Aprovado, nota: {}".format(med)
-    elif med >= 3:
-        return "Exame, nota: {}".format(med)
-    return "Reprovado, nota: {}".format(med)
+def mediaAluno(n1, n2):
+    media = (n1 + n2) / 2
+    if media >= 7:
+        return "Aprovado, nota: {}".format(media)
+    elif media >= 3:
+        return "Exame, nota: {}".format(media)
+    return "Reprovado, nota: {}".format(media)
 
-print(media(5, 6))
+print(mediaAluno(5, 6))
