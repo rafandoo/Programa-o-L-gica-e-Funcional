@@ -1,0 +1,13 @@
+1- Faça uma função recursiva que resolva a seguinte equação de recorrência:
+R(X) = 2 * R(X-1) – 4, para X > 0 (chamada recursiva)
+R(0) = 2 (base)
+
+
+2- Defina uma função recursiva de potência na qual power x y eleva x à y-ésima potência, sem a utilização de
+operadores de potenciação.
+
+3- Implemente uma função recursiva que receba uma lista de inteiros e retorne outra lista com todos os números pares.
+
+4- Implemente uma função recursiva que receba uma lista de inteiros e retorne a lista invertida.
+
+5- Implemente uma função recursiva que receba uma lista de inteiros e retorne a soma dos números ímpares.
